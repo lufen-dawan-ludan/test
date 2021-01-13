@@ -1,0 +1,7 @@
+2021-01-12 10:48:52,837 - INFO - newdream
+2021-01-12 10:54:19,142 - INFO - newdream
+2021-01-12 10:54:49,755 - DEBUG - newdream
+2021-01-12 11:00:02,011 - INFO - 111newdream
+2021-01-12 11:02:18,790 - INFO - 44 - 111newdream
+2021-01-12 11:04:09,318 - INFO - log_utils.py[line:lineno]d - 111newdream
+2021-01-12 11:05:09,272 - INFO - log_utils.py[line:44] - 111newdream
